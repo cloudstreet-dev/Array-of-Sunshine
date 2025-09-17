@@ -1,6 +1,8 @@
 # Array of Sunshine
 ## A Computer Science Journey for Kids
 
+This book is dedicated to Solomon.
+
 ### 📖 About This Book
 
 "Array of Sunshine" is an engaging, comprehensive introduction to computer science and STEAM concepts designed for children around 10 years old. Through 13 carefully crafted chapters, young readers will embark on an exciting journey from understanding what computers are to imagining and creating the technology of tomorrow.
